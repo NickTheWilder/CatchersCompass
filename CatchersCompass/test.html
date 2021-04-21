@@ -1,0 +1,64 @@
+﻿<head>
+    <meta charset="UTF-8">
+    <title>A Basic Map</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <style>
+        p
+        {
+
+        }
+        #map {
+            height: 100%;
+        }
+        /* Optional: Makes the sample page fill the window. */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <script>
+        function initMap() {
+            var mapOptions = {
+                zoom: 10,
+                center: new google.maps.LatLng(27.77, -97.291),
+                mapTypeId: 'roadmap',
+                panControl: false,
+                zoomControl: true,
+                mapTypeControl: true,
+                scaleControl: false,
+                streetViewControl: false,
+                overviewMapControl: false,
+                rotateControl: false,
+                fullscreenControl: false
+            };
+            var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+
+            $.ajax({
+                type: "GET",
+                async: true,
+                url: "/Fish.xml",
+                dataType: "xml",
+                success:
+                    function (xml) {
+                        var places = xml.documentElement.getElementsByTagName("Table");
+                        for (var i = 0; i < places.length; i++) {
+                            var lat = places[i].getElementsByTagName("Fish_Lat")[0].childNodes[0].nodeValue;
+                            var long = places[i].getElementsByTagName("Fish_Long")[0].childNodes[0].nodeValue;
+                            var latLng = new google.maps.LatLng(lat, long);
+                            var marker = new google.maps.Marker({
+                                position: latLng,
+                                map: map,
+                            });
+                        }
+                    }
+            });
+        }
+    </script>
+</head>
+<body>
+    <div id="map"></div>
+    <!--Please add the reference of you key-->
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASPpPzFRSvZNqTIbJ-dRAObwTScTNoEpI&callback=initMap">
+    </script>
+</body>

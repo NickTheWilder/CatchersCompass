@@ -1,0 +1,415 @@
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\CatchersCompass.pdb
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csc.rsp
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csi.rsp
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.AppContext.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Console.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Compression.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Claims.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.ValueTuple.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\vbc.rsp
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\WebGrease.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.pdb
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csprojAssemblyReference.cache
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CoreCompileInputs.cache
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CopyComplete
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.pdb
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\GMap.NET.Core.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsForms.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsPresentation.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.EF6.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.Linq.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll.config
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll.config
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\CatchersCompass.pdb
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe.config
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csc.rsp
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe.config
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csi.rsp
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.AppContext.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Console.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe.config
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\vbc.rsp
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\GMap.NET.Core.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsForms.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsPresentation.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.EF6.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.Linq.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\WebGrease.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.xml
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.xml
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.xml
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.xml
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll.config
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.xml
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.pdb
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csprojAssemblyReference.cache
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CoreCompileInputs.cache
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CopyComplete
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.dll
+C:\Users\Wilde\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.pdb
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll.config
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\CatchersCompass.pdb
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe.config
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csc.rsp
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe.config
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\csi.rsp
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.AppContext.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Console.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe.config
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\vbc.rsp
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\GMap.NET.Core.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsForms.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsPresentation.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.EF6.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.Linq.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\WebGrease.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.xml
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.xml
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.xml
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.xml
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll.config
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.xml
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.pdb
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CopyComplete
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.dll
+C:\Users\Sara\source\repos\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.pdb
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\CatchersCompass.pdb
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csc.rsp
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csi.rsp
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.AppContext.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Console.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Compression.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Claims.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.ValueTuple.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\vbc.rsp
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\EntityFramework.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\GMap.NET.Core.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsForms.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsPresentation.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.EF6.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.Linq.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\WebGrease.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\EntityFramework.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll.config
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.pdb
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csprojAssemblyReference.cache
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CoreCompileInputs.cache
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CopyComplete
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.dll
+C:\Users\Conor McQuillan\source\repos\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.pdb
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll.config
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\CatchersCompass.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\CatchersCompass.pdb
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csc.exe.config
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csc.rsp
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csi.exe.config
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\csi.rsp
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.AppContext.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Console.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Compression.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Claims.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.ValueTuple.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\vbc.exe.config
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\vbc.rsp
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\EntityFramework.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\GMap.NET.Core.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsForms.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\GMap.NET.WindowsPresentation.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.EF6.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.Linq.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\WebGrease.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\EntityFramework.xml
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\EntityFramework.SqlServer.xml
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Newtonsoft.Json.xml
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.xml
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Data.SQLite.dll.config
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\System.Web.Optimization.xml
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Antlr3.Runtime.pdb
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csprojAssemblyReference.cache
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CoreCompileInputs.cache
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.csproj.CopyComplete
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.dll
+C:\Users\Conor McQuillan\Downloads\CatchersCompassFinal\CatchersCompassFinal\CatchersCompass\CatchersCompass\obj\Debug\CatchersCompass.pdb

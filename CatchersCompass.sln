@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchersCompass", "CatchersCompass\CatchersCompass.csproj", "{91145788-FFF0-4238-B069-D72860822764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91145788-FFF0-4238-B069-D72860822764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91145788-FFF0-4238-B069-D72860822764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91145788-FFF0-4238-B069-D72860822764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91145788-FFF0-4238-B069-D72860822764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {256F512C-F35B-4463-BD4E-05C1F5B7560E}
+	EndGlobalSection
+EndGlobal
